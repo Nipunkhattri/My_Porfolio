@@ -361,6 +361,8 @@ export default function Home() {
                 <img
                   src={img.src}
                   alt="Nipun Khatri"
+                  width={400}
+                  height={200}
                   className="rounded-2xl object-cover w-full h-full p-2"
                 />
                 <motion.div
